@@ -1,0 +1,6 @@
+.results {
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
