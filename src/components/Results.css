@@ -1,4 +1,4 @@
-.results {
+.results > div {
   background-color: black;
   display: flex;
   flex-wrap: wrap;
